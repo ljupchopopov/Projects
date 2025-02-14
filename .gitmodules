@@ -1,3 +1,6 @@
 [submodule "Project-Restaurant"]
 	path = Project-Restaurant
 	url = git@github.com:ljupchopopov/Project-Restaurant.git
+[submodule "restaurant-project"]
+	path = restaurant-project
+	url = https://github.com/ljupchopopov/Project-Restaurant.git
