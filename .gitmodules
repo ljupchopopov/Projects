@@ -1,0 +1,3 @@
+[submodule "Project-Restaurant"]
+	path = Project-Restaurant
+	url = git@github.com:ljupchopopov/Project-Restaurant.git
